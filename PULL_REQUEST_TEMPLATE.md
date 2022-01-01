@@ -6,7 +6,6 @@ Checklist:
 - [ ] I have read [freeCodeCamp's guidelines for creating a Pull Request](https://contribute.freecodecamp.org/#/how-to-open-a-pull-request).
 - [ ] My pull request has a descriptive title and is less than 30 characters. Good examples are: 
   - `feat: add more tests to HTML and CSS challenges`
-  - `docs(i18n): Chinese translation of local setup`
   - `fix(a11y): improved search bar contrast`
   - `fix(api,client): prevent CORS errors on form submission`
      
