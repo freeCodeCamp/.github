@@ -8,10 +8,19 @@ Our full-stack web development and machine learning curriculum is completely fre
 
 You can [read more about freeCodeCamp](https://freecodecamp.org/news/about).
 
-## Our Curriculum
+## Become a Sponsor to freeCodeCamp
 
-The codebase for our primary `/learn` platform can be found in the [freeCodeCamp repository](https://github.com/freeCodeCamp/freeCodeCamp), which includes our curriculum lessons, web client, and API server.
+In 2014, a teacher started an open source community called freeCodeCamp.org. This community has grown to include millions of developers from around the world. Together, we have built:
 
-## Contributing
+💻 A free 3,000-hour programming curriculum
+🏛️ Forums and chat rooms where you can get coding help and feedback on your projects
+🧪 6,000+ coding tutorials
+🎒 100s of free YouTube courses on Computer Science, Data Science, and Machine Learning
 
-If you are interested in contributing to freeCodeCamp, we recommend starting with our [contributing documentation](https://contribute.freecodecamp.org).
+We are fully donor-supported. And we are extremely capital-efficient.
+
+Last year our budget was only about $400,000. And yet we served more than 1 billion minutes of learning.
+
+Each dollar you give to freeCodeCamp.org translates into 50 hours worth of learning for people around the world.
+
+[Sponsor us on GitHub](https://github.com/sponsors/freeCodeCamp) or [see other ways to donate](https://www.freecodecamp.org/donate).
