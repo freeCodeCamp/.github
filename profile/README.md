@@ -1,6 +1,6 @@
 # freeCodeCamp
 
-<img src="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png" align="center" alt="freeCodeCamp's logo" />
+[![freeCodeCamp Social Banner](https://s3.amazonaws.com/freecodecamp/wide-social-banner.png)](https://www.freecodecamp.org/)
 
 [freeCodeCamp.org](https://www.freecodecamp.org) is a friendly community where you can learn to code for free. It is run by a [donor-supported 501(c)(3) nonprofit](https://www.freecodecamp.org/donate) to help millions of busy adults transition into tech.
 
