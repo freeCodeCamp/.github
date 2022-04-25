@@ -14,8 +14,8 @@ In 2014, a teacher started an open source community called freeCodeCamp.org. Thi
 
 💻 A free 3,000-hour programming curriculum
 🏛️ Forums and chat rooms where you can get coding help and feedback on your projects
-🧪 6,000+ coding tutorials
-🎒 100s of free YouTube courses on Computer Science, Data Science, and Machine Learning
+🧪 8,000+ coding tutorials
+🎒 1,000+ free YouTube courses on Computer Science, Data Science, and Machine Learning
 
 We are fully donor-supported. And we are extremely capital-efficient.
 
