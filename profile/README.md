@@ -13,8 +13,11 @@ You can [read more about freeCodeCamp](https://freecodecamp.org/news/about).
 In 2014, a teacher started an open source community called freeCodeCamp.org. This community has grown to include millions of developers from around the world. Together, we have built:
 
 💻 A free 3,000-hour programming curriculum
+
 🏛️ Forums and chat rooms where you can get coding help and feedback on your projects
+
 🧪 8,000+ coding tutorials
+
 🎒 1,000+ free YouTube courses on Computer Science, Data Science, and Machine Learning
 
 We are fully donor-supported. And we are extremely capital-efficient.
