@@ -1,5 +1,5 @@
 **Looking forward for reporting a security issue:**
-Please report security issues by following our security policy: `https://contribute.freecodecamp.org/#/security`
+Please report security issues by following our security policy: `https://contribute.freecodecamp.org/security`
 
 **Describe the bug**
 A clear and concise description of what the bug is.
