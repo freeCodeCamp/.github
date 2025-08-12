@@ -1,1 +1,1 @@
-[Our security policy is available here.](https://contribute.freecodecamp.org/#/security)
+[Our security policy is available here.](https://contribute.freecodecamp.org/security)
